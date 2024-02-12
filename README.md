@@ -1,2 +1,2 @@
-# hugo_project
+# Hugo Project
 test page with hugo framework
